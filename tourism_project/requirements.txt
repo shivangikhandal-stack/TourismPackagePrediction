@@ -1,6 +1,6 @@
 
 pandas
 numpy
-scikit-learn==1.6.1
+scikit-learn
 joblib
 mlflow==3.0.1
